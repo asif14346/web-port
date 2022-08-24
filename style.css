@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 34px;
+}
 .name-highlight{
     color: coral;
 }
@@ -18,7 +21,7 @@ h1{
     width: 100%;
 }
 .top-banner{
-    background-image: url(images/back.png);
+    background-image: url(images/backk.png.jpg);
     background-repeat: no-repeat;
 
 }
@@ -29,5 +32,21 @@ h1{
     background-image: linear-gradient(45deg,lightgreen,green);
     padding: 7px 15px;
     border-radius: 5px;
+
+}
+.second-half{
+    width: 40%;
+    float: none;
+    margin-left: 6%;
+    margin-bottom: 5%;
+    padding-left: 5%;
+}
+.second-half image{
+    width: 30%;
+}
+.second-bck{
+    background-image: url(images/backk.png.jpg);
+    background-repeat: no-repeat;
+    background-position: 0%;
 
 }
