@@ -34,19 +34,6 @@ h2{
     border-radius: 5px;
 
 }
-.second-half{
-    width: 40%;
-    float: none;
-    margin-left: 6%;
-    margin-bottom: 5%;
-    padding-left: 5%;
-}
-.second-half image{
-    width: 30%;
-}
-.second-bck{
-    background-image: url(images/backk.png.jpg);
-    background-repeat: no-repeat;
-    background-position: 0%;
-
+.second-banner{
+    background-image: url(images/2nd.png.jpg);
 }
