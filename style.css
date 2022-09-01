@@ -8,14 +8,23 @@ h1{
 h2{
     font-size: 34px;
 }
+h3{
+    color: blueviolet;
+}
 .name-highlight{
     color: coral;
+}
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
 }
 .first-half{
     width: 40%;
     float: left;
     margin-left: 5%;
+    margin-right: 5%;
     padding-left: 2%;
+    padding-right: 5%;
 }
 .first-half image{
     width: 100%;
@@ -36,4 +45,29 @@ h2{
 }
 .second-banner{
     background-image: url(images/2nd.png.jpg);
+}
+.third-banner{
+    background-image: url(images/2nd.png.jpg);
+}
+.single-exp{
+    box-shadow: 10px 10px 30px gray;
+    height: 80%;
+    width: 60%;
+    
+}
+.experience-area{
+    background-image: url(images/2nd.png.jpg);
+}
+#full-stack{
+    border-left: 5px solid ;
+    border-image: linear-gradient(lightgreen ,green) ;
+    border-image-slice: 1 ;
+}
+#baby-stack{
+    border-left: 5px solid ;
+    border-image: linear-gradient(180deg, lightgreen ,green) ;
+    border-image-slice: 1 ;
+}
+footer{
+    text-align: center;
 }
